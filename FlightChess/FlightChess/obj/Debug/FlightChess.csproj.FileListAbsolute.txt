@@ -1,0 +1,7 @@
+D:\Github\CSharpConsoleGame\FlightChess\FlightChess\bin\Debug\FlightChess.exe.config
+D:\Github\CSharpConsoleGame\FlightChess\FlightChess\bin\Debug\FlightChess.exe
+D:\Github\CSharpConsoleGame\FlightChess\FlightChess\bin\Debug\FlightChess.pdb
+D:\Github\CSharpConsoleGame\FlightChess\FlightChess\obj\Debug\FlightChess.csproj.AssemblyReference.cache
+D:\Github\CSharpConsoleGame\FlightChess\FlightChess\obj\Debug\FlightChess.csproj.CoreCompileInputs.cache
+D:\Github\CSharpConsoleGame\FlightChess\FlightChess\obj\Debug\FlightChess.exe
+D:\Github\CSharpConsoleGame\FlightChess\FlightChess\obj\Debug\FlightChess.pdb
