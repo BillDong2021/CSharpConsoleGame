@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<!--武器库-->
+	<weapon_library>
+		<weapon id="1">
+			<name>力之碎片</name>
+			<attack>5</attack>
+			<price>20</price>
+		</weapon>
+		<weapon id="2">
+			<name>力之石</name>
+			<attack>10</attack>
+			<price>36</price>
+		</weapon>
+		<weapon id="3">
+			<name>力之晶石</name>
+			<attack>15</attack>
+			<price>50</price>
+		</weapon>
+		<weapon id="4">
+			<name>力量结晶</name>
+			<attack>30</attack>
+			<price>90</price>
+		</weapon>
+	</weapon_library>
+	<!--怪物库-->
+	<monster_library>
+		<monster id="1">
+			<name>史莱姆</name>
+			<hp>15</hp>
+			<attack>1</attack>
+			<gold>2</gold>
+		</monster>
+		<monster id="2">
+			<name>小蝙蝠</name>
+			<hp>20</hp>
+			<attack>2</attack>
+			<gold>4</gold>
+		</monster>
+		<monster id="3">
+			<name>哥布林</name>
+			<hp>50</hp>
+			<attack>5</attack>
+			<gold>10</gold>
+		</monster>
+		<monster id="4">
+			<name>食人花</name>
+			<hp>100</hp>
+			<attack>10</attack>
+			<gold>20</gold>
+		</monster>
+		<monster id="5">
+			<name>骷髅</name>
+			<hp>200</hp>
+			<attack>20</attack>
+			<gold>40</gold>
+		</monster>
+		<monster id="6">
+			<name>地精</name>
+			<hp>370</hp>
+			<attack>14</attack>
+			<gold>28</gold>
+		</monster>
+	</monster_library>
+	<!--地图库-->
+	<map_library>
+		<map id="1">
+			<name>村边小树林</name>
+			<monster>1,2</monster>
+			<treasure>1,2</treasure>
+		</map>
+		<map id="2">
+			<name>恐怖树林</name>
+			<monster>3,4</monster>
+			<treasure>3,4</treasure>
+		</map>
+		<map id="3">
+			<name>大洞穴</name>
+			<monster>5,6</monster>
+			<treasure>5,6</treasure>
+		</map>
+	</map_library>
+	<!--宝藏库-->
+	<treasure_library>
+		<treasure id="1">
+			<attack>0</attack>
+			<hp>10</hp>
+		</treasure>
+		<treasure id="2">
+			<attack>3</attack>
+			<hp>0</hp>
+		</treasure>
+		<treasure id="3">
+			<attack>5</attack>
+			<hp>5</hp>
+		</treasure>
+		<treasure id="4">
+			<attack>6</attack>
+			<hp>16</hp>
+		</treasure>
+		<treasure id="5">
+			<attack>15</attack>
+			<hp>20</hp>
+		</treasure>
+		<treasure id="6">
+			<attack>20</attack>
+			<hp>30</hp>
+		</treasure>
+	</treasure_library>
+	<!--英雄库-->
+	<hero_library>
+		<hero id="1">
+			<class>游侠</class>
+			<hp>45</hp>
+			<attack>5</attack>
+			<skill>暴击</skill>
+			<tips>有几率造成2倍伤害</tips>
+			<percent>50</percent>
+		</hero>
+		<hero id="2">
+			<class>战士</class>
+			<hp>50</hp>
+			<attack>3</attack>
+			<skill>格挡</skill>
+			<tips>有几率不受伤害</tips>
+			<percent>50</percent>
+		</hero>
+		<hero id="3">
+			<class>法师</class>
+			<hp>40</hp>
+			<attack>7</attack>
+			<skill>吸血</skill>
+			<tips>有几率回复攻击伤害的生命值</tips>
+			<percent>50</percent>
+		</hero>
+	</hero_library>
+	<medicine_library>
+		<medicine id="1">
+			<name>宁神花</name>
+			<hp>20</hp>
+			<price>10</price>
+		</medicine>
+		<medicine id="2">
+			<name>银叶草</name>
+			<hp>40</hp>
+			<price>18</price>
+		</medicine>
+		<medicine id="3">
+			<name>地根草</name>
+			<hp>100</hp>
+			<price>35</price>
+		</medicine>
+	</medicine_library>
+</root>

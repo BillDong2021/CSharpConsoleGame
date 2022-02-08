@@ -1,0 +1,7 @@
+D:\Github\CSharpConsoleGame\FlightChess\RPG_Game\RPG_Game\bin\Debug\RPG_Game.exe.config
+D:\Github\CSharpConsoleGame\FlightChess\RPG_Game\RPG_Game\bin\Debug\RPG_Game.exe
+D:\Github\CSharpConsoleGame\FlightChess\RPG_Game\RPG_Game\bin\Debug\RPG_Game.pdb
+D:\Github\CSharpConsoleGame\FlightChess\RPG_Game\RPG_Game\obj\Debug\RPG_Game.csproj.AssemblyReference.cache
+D:\Github\CSharpConsoleGame\FlightChess\RPG_Game\RPG_Game\obj\Debug\RPG_Game.csproj.CoreCompileInputs.cache
+D:\Github\CSharpConsoleGame\FlightChess\RPG_Game\RPG_Game\obj\Debug\RPG_Game.exe
+D:\Github\CSharpConsoleGame\FlightChess\RPG_Game\RPG_Game\obj\Debug\RPG_Game.pdb
